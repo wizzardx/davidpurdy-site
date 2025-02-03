@@ -1,14 +1,15 @@
 ---
-title: "David Purdy"
+title: "David Purdy – Contact"
 layout: default
 ---
 
-# Welcome to My Personal Site 👋
+# 👋 Let's Connect
 
-Hi, I'm **David Purdy**, a software developer and tech enthusiast.  
-This is my personal site, where I share insights, projects, and thoughts.
+Hi, I'm **David Purdy**, a software developer and AI enthusiast.  
+If you scanned my QR code at an event, here's how to reach me:
 
-## 🔗 Links
-- [GitHub](https://github.com/wizzardx)
-- [LinkedIn](https://www.linkedin.com/in/david-purdy-a59139206/)
-- [Resume (PDF)](https://yourresume.pdf)
+📩 **Email:** wizzardx [at] gmail [dot] com *(Remove brackets when emailing)*  
+📱 **Phone:** +27 84 278 5546  
+🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/david-purdy-a59139206/)  
+
+👉 Feel free to reach out if you'd like to connect!
