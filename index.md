@@ -3,18 +3,23 @@ title: "David Purdy – Contact"
 layout: default
 ---
 
-# 👋 Hi, I'm David Purdy  
+# Contact  
 
-I'm a **software developer & AI enthusiast**. If we connected at an event, here’s how to reach me:  
+If we met at an event, or you just want to reach out, here’s where to find me:  
 
-## 📩 Contact Me  
-[📧 Email Me](mailto:wizzardx@gmail.com)  
-[📞 Call or Text](tel:+27842785546)  
-[💼 Connect on LinkedIn](https://www.linkedin.com/in/david-purdy-a59139206/)  
+## 📬 Direct Contact  
+📧 **Email:** [wizzardx@gmail.com](mailto:wizzardx@gmail.com)  
+📱 **Phone:** [+27 84 278 5546](tel:+27842785546)  
+💬 **WhatsApp:** Message me first  
 
-## 🔗 More About Me  
-I specialize in **AI, software development, and automation**. Check out my latest work:  
-- [GitHub](https://github.com/wizzardx)  
-- [My Blog](#) (Coming soon!)  
+## 🔗 My Online Presence  
+- [🔹 GitHub](https://github.com/wizzardx) (WIP, but the tech hub is growing)  
+- [📝 Blog](https://www.tumblr.com/blog/wizzardx) (Moving to Medium soon)  
+- [👤 Reddit](https://www.reddit.com/u/wizzardx3) (Where I post thoughts & engage)  
+- [💼 LinkedIn](https://www.linkedin.com/in/david-purdy-a59139206/) (If you prefer the formal route)  
 
-🚀 **Feel free to reach out!** Let’s build something great.  
+---
+
+If something I’ve worked on resonates with you, feel free to reach out.  
+
+_No QR codes, no download links—just a direct connection._  
