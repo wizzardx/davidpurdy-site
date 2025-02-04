@@ -3,13 +3,18 @@ title: "David Purdy – Contact"
 layout: default
 ---
 
-# Contact Information  
+# 👋 Hi, I'm David Purdy  
 
-Hi, I'm **David Purdy**, a software developer and AI enthusiast.  
-If you scanned my QR code at an event, here’s how to reach me:  
+I'm a **software developer & AI enthusiast**. If we connected at an event, here’s how to reach me:  
 
-**Email:** wizzardx [at] gmail [dot] com *(Remove brackets when emailing)*  
-**Phone:** +27 84 278 5546  
-**LinkedIn:** [linkedin.com/in/david-purdy-a59139206](https://www.linkedin.com/in/david-purdy-a59139206/)  
+## 📩 Contact Me  
+[📧 Email Me](mailto:wizzardx@gmail.com)  
+[📞 Call or Text](tel:+27842785546)  
+[💼 Connect on LinkedIn](https://www.linkedin.com/in/david-purdy-a59139206/)  
 
-Feel free to reach out.
+## 🔗 More About Me  
+I specialize in **AI, software development, and automation**. Check out my latest work:  
+- [GitHub](https://github.com/wizzardx)  
+- [My Blog](#) (Coming soon!)  
+
+🚀 **Feel free to reach out!** Let’s build something great.  
