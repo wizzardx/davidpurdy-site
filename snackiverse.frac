@@ -1,0 +1,2 @@
+type Human := M(M) + CandyShell(Identity)
+theorem snackiverse : ∀ h : Human, h ∈ VendingMachine(M)
