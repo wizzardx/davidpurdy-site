@@ -109,3 +109,20 @@ footer {
         height: 120px;
     }
 }
+
+/* Clean styling for the M proof block */
+pre {
+    background: #222;
+    color: #0f0;
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+    text-align: left;
+}
+
+section p {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+}
